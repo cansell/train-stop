@@ -1,6 +1,6 @@
 train-stop
 ==========
 
-Git Exploration
+Git Exploration and Modifications
 
 Initial training on GITHUB.
